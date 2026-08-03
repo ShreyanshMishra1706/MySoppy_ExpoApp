@@ -3,6 +3,25 @@
 MyShoppy is a modern cross-platform e-commerce application built using **React Native**, **Expo Router**, and **TypeScript**. It supports **Android**, **iOS**, **Web**, and **physical mobile devices**, providing a smooth shopping experience with category browsing, product filtering, cart management, and checkout functionality.
 
 ---
+# 📸 Application Screenshots
+
+| Home | Categories |
+|------|------------|
+| <img src="./assets/categories/1.png" width="250"/> | <img src="./assets/categories/2.png" width="250"/> |
+
+| Product Listing | Product Details |
+|-----------------|-----------------|
+| <img src="./assets/categories/3.png" width="250"/> | <img src="./assets/categories/4.png" width="250"/> |
+
+| Cart | Shipping Details |
+|------|------------------|
+| <img src="./assets/categories/5.png" width="250"/> | <img src="./assets/categories/6.png" width="250"/> |
+
+| Order Success |
+|---------------|
+| <img src="./assets/categories/7.png" width="250"/> |
+
+
 
 # 🚀 Setup Guide
 
@@ -46,6 +65,7 @@ This installs all dependencies including:
 - React Navigation
 - Vector Icons
 - TypeScript
+- AsyncStorage
 
 ---
 
@@ -399,20 +419,3 @@ Built as a cross-platform React Native e-commerce application demonstrating:
 
 ---
 
-# 📸 Application Screenshots
-
-| Home | Categories |
-|------|------------|
-| <img src="./assets/categories/1.png" width="250"/> | <img src="./assets/categories/2.png" width="250"/> |
-
-| Product Listing | Product Details |
-|-----------------|-----------------|
-| <img src="./assets/categories/3.png" width="250"/> | <img src="./assets/categories/4.png" width="250"/> |
-
-| Cart | Shipping Details |
-|------|------------------|
-| <img src="./assets/categories/5.png" width="250"/> | <img src="./assets/categories/6.png" width="250"/> |
-
-| Order Success |
-|---------------|
-| <img src="./assets/categories/7.png" width="250"/> |
